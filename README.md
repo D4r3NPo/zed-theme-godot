@@ -1,5 +1,7 @@
 # Godot theme for Zed
 
+> Inspired by the Godot editor and its syntax highlighting theme.
+
 ![GDScript code with Godot theme for Zed](./screenshots/showcase.png)
 
 ## Installation
